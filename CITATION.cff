@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Analysis code for: Motor Functional Independence Measure scores at discharge in patients aged 90 years and over in a Japanese convalescent rehabilitation ward: a retrospective cohort study"
+type: software
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+version: "1.0.0"
+doi: "[Zenodo DOI]"
+date-released: "[YYYY-MM-DD]"
+license: MIT
+repository-code: "https://github.com/[account]/[repository]"
+keywords:
+  - rehabilitation
+  - Functional Independence Measure
+  - older people
+  - aged 90 and over
+  - ordinal regression
+  - R
